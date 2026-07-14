@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stab2-2026-q3-06-rent-roll-gross-net.zeabur.app/sitemap.xml
